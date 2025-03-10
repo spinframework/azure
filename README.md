@@ -1,6 +1,6 @@
 # SpinKube Helm Chart
 
-This is a Helm chart for deploying SpinKube on AKS
+This is a Helm chart for deploying [SpinKube](https://spinkube.dev) on AKS.
 
 ## Create a new AKS cluster
 
